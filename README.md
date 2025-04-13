@@ -1,5 +1,3 @@
-# Entrepreneurial-Ecosystem
-
 # Enhancing Venture Capital Strategies: <br>Predictive Modeling of Startup Success Based on Founders' Career Path and Industry Verticals
 
 

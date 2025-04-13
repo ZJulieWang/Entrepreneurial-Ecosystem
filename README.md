@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-- [Datasets](#datasets)
+- Datasets, but due to privacy issues, they are not publicly available.
 - [Part 1: NLP Files](#part-1-nlp-files)
 - [Part 2: Prediction Model Files](#part-2-prediction-model-files)
 
